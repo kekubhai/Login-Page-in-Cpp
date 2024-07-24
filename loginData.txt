@@ -1,0 +1,1 @@
+*cd "e:\Open-Source\Register and Login in C++\" ; if ($?) { g++ login.cpp -o login } ; if ($?) { .\login }*12345678
